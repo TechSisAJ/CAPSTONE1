@@ -28,4 +28,4 @@
       navigator.geolocation.getCurrentPosition(console.log)
     }
     
-    document.querySelector("#find-me").addEventListener("click", geoFindMe);
+    
